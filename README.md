@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GnyanSwaroop
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning animation
-- 💞️ I’m looking to collaborate on gnyan tutorial
-- 📫 How to reach me through our website
+- 👋 Hi, I’m @GSLM
+- 👀 I’m interested in coding, animation, making youtube videos.
+- 🌱 I’m currently learning noting
+- 📫 How to reach me through our youtune channel
 
 <!---
 GnyanSwaroop/GnyanSwaroop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
